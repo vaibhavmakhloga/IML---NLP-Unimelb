@@ -1,1 +1,1 @@
-These are unimelb Assignments that i did while studying for subjects Introduction to Machine Learning and Natural Language Processing. 
+# These are few of the assignments that I did in subjects Introduction to Machine Learning and Natural Language Processing while studying at University of Melbourne
